@@ -18,6 +18,6 @@ def using_shift (list)
   list.shift
 end 
 
-def using_shift (list)
+def using_shift1 (list)
   list.shift(2)
 end 
