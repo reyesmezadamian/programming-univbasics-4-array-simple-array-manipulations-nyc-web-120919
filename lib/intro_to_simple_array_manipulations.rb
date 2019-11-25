@@ -11,8 +11,5 @@ def using_pop (list)
 end
 
 def pop_with_args (list)
-  list = ["Chihuahua", "Shiba Inu", "Labrador", "Pug",]
   list.pop(2)
-  puts list
-  return list
 end
