@@ -23,6 +23,5 @@ def shift_with_args (list)
 end 
 
 def using_concat (array, string)
-  
- 
+  array.concat (sting)
 end
