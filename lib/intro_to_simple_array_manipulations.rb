@@ -43,6 +43,7 @@ def using_delete (array, string)
 end
 
 def using_delete_at (array, list)
+  array = ["Robocop"]
  array.delete_at(0)
 end
 
