@@ -13,3 +13,7 @@ end
 def pop_with_args (list)
   list.pop(2)
 end
+
+def using_shift (list)
+  using_shift.shift
+end  
