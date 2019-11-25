@@ -28,7 +28,7 @@ end
 
 def using_insert (array, num)
   num = 1
-  array.insert[num]
+  array.insert[1+, num]
 end
 
 
