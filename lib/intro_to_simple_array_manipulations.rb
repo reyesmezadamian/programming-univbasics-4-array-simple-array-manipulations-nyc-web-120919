@@ -27,7 +27,6 @@ def using_concat (array, string)
 end
 
 def using_insert (list)
-  an_array = "damian"
   list.insert(4, an_array)
 end
 
