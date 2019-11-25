@@ -15,5 +15,5 @@ def pop_with_args (list)
 end
 
 def using_shift (list)
-  using_shift.shift
+  list.shift
 end  
