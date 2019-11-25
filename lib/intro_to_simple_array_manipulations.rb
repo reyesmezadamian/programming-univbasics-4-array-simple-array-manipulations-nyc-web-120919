@@ -26,8 +26,8 @@ def using_concat (array, string)
   array.concat (string)
 end
 
-def using_insert (array)
-  array.insert(4,)
+def using_insert (list)
+  list.insert(4,)
 end
 
 
